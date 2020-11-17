@@ -1,0 +1,13 @@
+a = [
+  {'title': 'Saf tayyorgarligi', 'start': '2020-11-12', 'date': 'None', 'start_time': 'None', 'schedule_title': 'None', 'end': '2020-11-12'},
+  {'title': 'Komandirlik tayyorgarligi', 'start': '2020-11-13', 'date': 'None', 'start_time': 'None', 'schedule_title': 'None', 'end': '2020-11-16'},
+  {'title': 'yangi zapis', 'start': '2020-11-16', 'date': '2020-11-16', 'start_time': '04:31:13', 'schedule_title': 'asosiy qism', 'end': '2020-11-17'},
+  {'title': 'yangi zapis', 'start': '2020-11-16', 'date': '2020-11-16', 'start_time': '08:00:00', 'schedule_title': 'kirish qismi', 'end': '2020-11-17'},
+  {'title': 'jismoniy tayyorgarligi', 'start': '2020-11-20', 'date': '2020-11-21', 'start_time': '04:10:04', 'schedule_title': 'kechki ovqat', 'end': '2020-11-22'},
+  {'title': 'jismoniy tayyorgarligi', 'start': '2020-11-20', 'date': '2020-11-21', 'start_time': '08:00:00', 'schedule_title': 'kirish qismi', 'end': '2020-11-22'},
+  {'title': 'jismoniy tayyorgarligi', 'start': '2020-11-20', 'date': '2020-11-21', 'start_time': '04:31:13', 'schedule_title': 'asosiy qism', 'end': '2020-11-22'}
+]
+
+b = {
+
+}
