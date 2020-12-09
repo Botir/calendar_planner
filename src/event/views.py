@@ -20,8 +20,21 @@ def index(request):
             list.append( {
                 'title': data[1],
                 'start': str(data[2]),
+                'date': str(data[8]),
+                'start_time': str(data[6]),
+                'schedule_title': str(data[5]),
                 'end': str(data[3])
                 })
+
+
+                # list.append({
+                #     'start':f'{schedule.event_date} {schedule.start_time}',
+                #     'end':f'{schedule.event_date} {schedule.end_time}',
+                #     'title':schedule.title
+                #
+                #     })
+        print(list)
+
 
     return render(request,'index.html',{"list":json.dumps(list)})
 
